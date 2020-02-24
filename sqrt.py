@@ -14,7 +14,7 @@ import math
 opt = docopt(__doc__)
 
 def main(number):
-  number = int(number)
+  number = int(numbr)
   print(math.sqrt(number))
     
 
